@@ -3,6 +3,9 @@
 This project is a fully interactive Excel Dashboard built using the Amazon Sales Dataset (2019).
 It demonstrates end-to-end data analysis, KPI creation, and professional dashboard design.
 
+
+> 📌 This project showcases an interactive Excel dashboard built as part of my data analysis learning journey.
+
 ---
 
 ## 🚀 Project Highlights
@@ -36,6 +39,11 @@ It demonstrates end-to-end data analysis, KPI creation, and professional dashboa
 ## 🎯 Goal
 To transform raw sales data into a clear, interactive, and business-ready dashboard.
 
+---
+## 📂 Project Structure
+- Amazon_Dashboard.xlsx
+- /screenshots
+- README.md
 ---
 
 ## 👤 Author
